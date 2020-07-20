@@ -5,5 +5,5 @@
 
 ### Course List
 
-- [SQL Fundamentals(Dataquest)] (https://app.dataquest.io/course/sql-fundamentals)
-- [SQL For Data Science(IBM)] (https://courses.edx.org/courses/course-v1:IBM+DB0201EN+1T2020/course/)
+- [SQL Fundamentals(Dataquest)](https://app.dataquest.io/course/sql-fundamentals)
+- [SQL For Data Science(IBM)](https://courses.edx.org/courses/course-v1:IBM+DB0201EN+1T2020/course/)
