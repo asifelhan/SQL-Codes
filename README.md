@@ -1,4 +1,4 @@
-## Repository For Storing SQL Projects and Practice Codes
+## Repository For Storing SQL Practice Codes
 
 - Open the **jupyter notebooks** inside the folders to take a look at the codes
 - Remember the **data** and **database** files!
